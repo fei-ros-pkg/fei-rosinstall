@@ -1,0 +1,6 @@
+- git: {local-name: fei_gazebo, uri: 'https://github.com/muhrix/fei_gazebo.git', version: 'master'}
+- git: {local-name: husky_fei_base, uri: 'https://github.com/muhrix/husky_fei_base.git', version: 'hydro-devel'}
+- git: {local-name: husky_fei_navigation, uri: 'https://github.com/muhrix/husky_fei_navigation.git', version: 'master'}
+- git: {local-name: husky_fei_robot, uri: 'https://github.com/muhrix/husky_fei_robot.git', version: 'master'}
+- git: {local-name: husky_fei_simulator, uri: 'https://github.com/muhrix/husky_fei_simulator.git', version: 'master'}
+- git: {local-name: navigation, uri: 'https://github.com/muhrix/navigation.git', version: 'hydro-devel'}
