@@ -1,0 +1,7 @@
+- git: {local-name: youbot_description, uri: 'https://github.com/youbot/youbot_description.git', version: 'hydro-devel'}
+- git: {local-name: youbot_driver, uri: 'https://github.com/youbot/youbot_driver.git', version: 'hydro-devel'}
+- git: {local-name: youbot_navigation, uri: 'https://github.com/youbot/youbot_navigation.git', version: 'hydro-devel'}
+- git: {local-name: youbot_driver_ros_interface, uri: 'https://github.com/youbot/youbot_driver_ros_interface.git', version: 'hydro-devel'}
+- git: {local-name: youbot_simulation, uri: 'https://github.com/youbot/youbot_simulation.git', version: 'hydro-devel'}
+- git: {local-name: youbot_diagnostics, uri: 'https://github.com/youbot/youbot_diagnostics.git', version: 'hydro-devel'}
+- git: {local-name: youbot_applications, uri: 'https://github.com/wnowak/youbot_applications.git', version: 'master'}
