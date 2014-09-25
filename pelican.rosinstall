@@ -1,5 +1,0 @@
-- git: { local-name: multimaster_fkie, uri: 'https://github.com/fkie/multimaster_fkie.git', version: hydro-devel }
-- git: { local-name: multimaster_launch, uri: 'https://bitbucket.org/muhrix/multimaster_launch.git', version: master }
-- git: { local-name: asctec_sdk3_framework, uri: 'https://bitbucket.org/muhrix/asctec_sdk3_framework.git', version: node-devel }
-- git: { local-name: mv_bluefox_camera, uri: 'https://bitbucket.org/muhrix/mv_bluefox_camera.git', version: master }
-- git: { local-name: rosbag_rec_server, uri: 'https://bitbucket.org/muhrix/rosbag_rec_server.git', version: master }
